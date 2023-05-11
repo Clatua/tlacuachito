@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "mi porpio servidor de msoquitto",
+  "main": "tlacuachito.js",
+  "scripts": {
+    "starrt": "tlacuachito.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clatua",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.49.0"
+  }
+}
